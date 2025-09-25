@@ -1,0 +1,14 @@
+name: hull-tactical-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - plotnine
+  - matplotlib
+  - numpy
+  - pip
+  - pip:
+      - kaggle
+      - jupyter
