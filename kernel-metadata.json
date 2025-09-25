@@ -1,19 +1,15 @@
 {
-  "id": "cascarino/EDA_Hull-Tactical-pred-market",
-  "title": "EDA Hull Tactical Predictions Market",
+  "id": "cascarino/eda-hull-tactical-market-prediction",
+  "title": "EDA Hull Tactical Market Prediction",
   "code_file": "notebooks/eda.ipynb",
   "language": "python",
   "kernel_type": "notebook",
-  "is_private": "false",
-  "enable_gpu": "false",
-  "enable_tpu": "false",
-  "enable_internet": "true",
-  "dataset_sources": [
-    "hull-tactical-market-prediction"   
-  ],
-  "competition_sources": [
-    "hull-tactical-market-prediction"
-  ],
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": ["hull-tactical-market-prediction"],
   "kernel_sources": [],
   "model_sources": []
 }
